@@ -1,0 +1,5 @@
+{
+  "jupyter.jupyterServerType": "local",
+  "python.defaultInterpreterPath": "/home/mgoyal17/torch_env/bin/python",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
