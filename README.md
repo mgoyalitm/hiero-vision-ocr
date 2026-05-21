@@ -77,6 +77,20 @@ This project demonstrates that carefully engineered representations can provide 
 
 ---
 
+## Related Project
+
+This OCR project was supported by a companion dataset generation tool:
+
+**MNIST Builder for PyTorch**
+
+A custom WPF application designed to generate MNIST-style character datasets directly from the Google Fonts repository.
+
+The tool normalizes glyphs into **21×21 images**, exports PyTorch-compatible folder structures, and enables controlled synthetic dataset generation for OCR experiments.
+
+Repository:
+
+https://github.com/mgoyalitm/mnist-builder-for-pytorch
+
 ## Technologies
 
 - Python
